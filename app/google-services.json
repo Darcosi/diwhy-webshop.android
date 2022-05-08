@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384933115914",
+    "project_id": "diwhy-webshop",
+    "storage_bucket": "diwhy-webshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384933115914:android:1dc515bbb4ab3977eec7f3",
+        "android_client_info": {
+          "package_name": "com.example.diwhywebshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384933115914-ommqmfbdou3dfiooa06c3lqrqito6ckn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM86TuvfNERmqTVqksQNgY2iBv_76mZZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384933115914-ommqmfbdou3dfiooa06c3lqrqito6ckn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
