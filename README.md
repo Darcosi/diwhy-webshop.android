@@ -3,7 +3,7 @@
 
 Ez a kötprog egy webshop, amire beregisztrálva megtekinthetjük a termékeket, ezekre a CRUD műveleteket végrehajthatjuk. **Minden felhasználó "admin jogosultságú"**, szóval nincs jogosultságbeli különbség a felhazsnálók közt.  
 
-Ettől függetlenül odalhoz tartozik egy **"admin"** felhasználó, akinek a belépési adatai a következőek:
+Ettől függetlenül az odalhoz tartozik egy **"admin"** felhasználó, akinek a belépési adatai a következőek:
  - **email**: admin@gmail.com
  - **pass**: admin123
 
