@@ -8,3 +8,5 @@ Ettől függetlenül az odalhoz tartozik egy **"admin"** felhasználó, akinek a
  - **pass**: admin123
 
 Az alkalmazásban az utolsó pillanatban ki lettek comment-elve az adatfeltöltő, adatmódosító és adattörlő spinner-ek, mert az OnSuccessListener-ök nem futnak le, annak ellenére, hogy az esemény sikeresen megtörténik. Ez a hiba a beadás napján merült fel, lehet köze van az új Firebase release-nek, hiszen eddig teljesen jól működtek.
+
+**APK:** diwhy-webshop.apk
